@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">P67S2120222GERH</string>
+    <string name="Inst">Tecnológico de Estudios Superiores Oriente del Estado de México</string>
+    <string name="tit">MENU</string>
+    <string name="btnsuma">Suma</string>
+    <string name="btnresta">Resta</string>
+    <string name="btnmul">Multiplicación</string>
+    <string name="btndiv">División</string>
+    <string name="txtnum1" />
+    <string name="txtnum2" />
+    <string name="hint">Ingresa un numero</string>
+    <string name="hint2">Ingresa otro numero</string>
+    <string name="resultado">Resultado</string>
+    <string name="btncal">Calcular</string>
+    <string name="btnreg">Regresar</string>
+    <string name="Titsum">Suma</string>
+    <string name="titres">Resta</string>
+    <string name="titmul">Multiplicar</string>
+    <string name="titdiv">Dividir</string>
+</resources>
